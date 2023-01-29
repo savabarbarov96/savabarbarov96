@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @savabarbarov96
-- 👀 I’m interested in JavaScript, Software Testing, CMS systems and finding ways to break stuff.
-- 🌱 I’m currently learning ... Software Quality Assurance.
+- 👀 I’m interested in Python, JavaScript, Software Testing, CMS systems and finding ways to break stuff.
+- 🌱 I’m currently learning ... Software Testing and Quality Assurance.
 ----
 Computer skills:
 <br>Experience analyzing, documenting and creating manual tests and automating them. 
