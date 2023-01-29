@@ -8,7 +8,7 @@ Selenium WebDriver
 <br>
 Experience working in Agile environment.<br>
 Ability to work with GitHub<br>
-Experience working with complex SQL queries. /Mostly MySQL/<br>
+Experience working with Databases (mySQL) /<br>
 Familiarity in creating Load Profile and Performance testing using JMeter<br>
 Microsoft office package<br>
 Experience working with Jira<br>
