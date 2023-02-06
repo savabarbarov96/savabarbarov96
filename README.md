@@ -19,7 +19,7 @@ Experience working with CMS /WordPress/<br>
 Knowledge of best practices when it comes to SEO and Copywriting<br>
 Experience in API testing using Postman<br>
 Experience with CRM/Customer Relationship Management/ development<br>
-Basic knowledge with Linux/Unix command line<br>
+Experience with Linux/Unix command line<br>
 
 ----
 - 📫 How to reach me ... savabarbarov96@gmail.com
