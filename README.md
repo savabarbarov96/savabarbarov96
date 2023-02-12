@@ -5,16 +5,17 @@
 Computer skills:
 <br>Experience analyzing, documenting and creating manual tests and automating them. 
 Selenium WebDriver
+Cypress
 <br>
 Experience working in Agile environment.<br>
 Ability to work with GitHub<br>
-Experience working with Databases (mySQL) /<br>
+Experience working with Database (mySQL) /<br>
 Familiarity in creating Load Profile and Performance testing using JMeter<br>
-Microsoft office package<br>
+Microsoft Office Package<br>
 Experience working with Jira<br>
 Good understanding HTML & CSS<br>
 Experience using Salesforce <br>
-Good understanding of OOP /JavaScript/<br>
+Good understanding of OOP /JavaScript and Python/<br>
 Experience working with CMS /WordPress/<br>
 Knowledge of best practices when it comes to SEO and Copywriting<br>
 Experience in API testing using Postman<br>
