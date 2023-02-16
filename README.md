@@ -15,6 +15,7 @@ Microsoft Office Package<br>
 Experience working with Jira<br>
 Good understanding HTML & CSS<br>
 Experience using Salesforce <br>
+Performence testing using K6 <br>
 Good understanding of OOP /JavaScript and Python/<br>
 Experience working with CMS /WordPress/<br>
 Knowledge of best practices when it comes to SEO and Copywriting<br>
