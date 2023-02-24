@@ -5,12 +5,13 @@
 Computer skills:
 <br>Experience analyzing, documenting and creating manual tests and automating them. 
 Selenium WebDriver
+Robot Framework
 Cypress
 <br>
 Experience working in Agile environment.<br>
 Ability to work with GitHub<br>
 Experience working with Database (mySQL) /<br>
-Familiarity in creating Load Profile and Performance testing using JMeter<br>
+Familiarity in creating Load Profile and Performance testing using K6<br>
 Microsoft Office Package<br>
 Experience working with Jira<br>
 Good understanding HTML & CSS<br>
