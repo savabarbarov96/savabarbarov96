@@ -1,33 +1,82 @@
-- 👋 Hi, I’m @savabarbarov96
-- 👀 I’m interested in Python, JavaScript, Software Testing, CMS systems and finding ways to break stuff.
-- 🌱 I’m currently employed as Software QA
-----
-Computer skills:
-<br>Experience analyzing, documenting and creating manual tests and automating them. 
-Selenium WebDriver
-Robot Framework
-Cypress
-<br>
-Experience working in Agile environment.<br>
-Ability to work with GitHub<br>
-Experience working with Database (mySQL) /<br>
-Familiarity in creating Load Profile and Performance testing using K6<br>
-Microsoft Office Package<br>
-Experience working with Jira<br>
-Good understanding HTML & CSS<br>
-Experience using Salesforce <br>
-Performence testing using K6 <br>
-Good understanding of OOP /JavaScript and Python/<br>
-Experience working with CMS /WordPress/<br>
-Knowledge of best practices when it comes to SEO and Copywriting<br>
-Experience in API testing using Postman<br>
-Experience with CRM/Customer Relationship Management/ development<br>
-Experience with Linux/Unix command line<br>
+# 👋 Hi, I’m Sava Barbarov
 
-----
-- 📫 How to reach me ... savabarbarov96@gmail.com
+QA Automation Engineer | AI Workflow Architect | Full-Stack Developer
 
-<!---
-savabarbarov96/savabarbarov96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💡 About Me
+
+- Experienced with **AI agents**, coding agent frameworks, and workflow automation.
+- Skilled in **frontend** (React, Tailwind, shadcn-ui), **backend** (Node.js, Supabase, MongoDB), and full-stack app delivery.
+- Deep knowledge of **QA automation**, performance, security, and test infrastructure.
+- Passionate about building intelligent systems that solve real business problems.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages:**  
+Python | JavaScript | TypeScript | Node.js | Bash | PowerShell
+
+**Frontend:**  
+React | Vite | Tailwind CSS | shadcn-ui
+
+**Backend & Databases:**  
+Node.js | Supabase | MongoDB | Google Cloud Platform | RLS Policies
+
+**Automation & QA:**  
+Cypress | Playwright | Robot Framework | Postman | K6 | Cypress Cloud | OWASP ZAP | Newman
+
+**DevOps & Infrastructure:**  
+Linux | Docker | GitHub Actions | NGINX | DNS | PM2 | Netdata | AMQP (RabbitMQ)
+
+**AI & Workflow Automation:**  
+n8n | RAG systems | Cursor | Lovable.dev | Bolt.DIY | MCP (Model Context Protocol)
+
+**Integrations & CMS:**  
+Stripe | WordPress | Salesforce
+
+**Project Tools:**  
+Jira | Confluence | GitHub | Azure DevOps
+
+---
+
+## 🚀 Projects
+
+**Automation Aid** — [automationaid.eu](https://automationaid.eu)  
+Founder & Developer (2025–Present)  
+- Building AI-powered workflow automation for businesses using n8n, Supabase, Cursor, Lovable.dev, and Stripe.
+- Delivering custom CRM integrations and process automation to streamline operations.
+
+**uTest Certified Tester**  
+- Structured manual and exploratory testing of web, mobile, and API platforms.
+- Reporting and documenting bugs following industry best practices.
+
+---
+
+## 🏆 Career Snapshot
+
+- **Datex:** Built and scaled end-to-end automated testing (Cypress, Azure DevOps), led performance/load testing (K6), delivered EDI and SOC 2 test coverage, performed security and penetration tests.
+- **ASML:** QA for functional/non-functional testing, test strategy, and documentation in agile teams.
+- **Cisco:** Subject Matter Expert for root cause analysis and technical support.
+
+---
+
+## 🎓 Education & Certifications
+
+- Computer Science and Electronics – Vocational School of Electronics John Atanasoff
+- QA Academy (SoftServe), QA Fundamentals (SoftUni), Complete JavaScript Course (Udemy)
+
+---
+
+## 📫 Contact
+
+**Email:** savabarbarov96@gmail.com  
+**LinkedIn:** [sava-barbarov](https://linkedin.com/in/sava-barbarov)
+
+---
+
+> Always open to new AI, automation, or full-stack collaboration opportunities.  
+> Let’s build something that automates the future.
+
+
